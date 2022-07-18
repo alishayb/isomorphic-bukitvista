@@ -20,7 +20,7 @@ Go to the project directory and install all the necessary dependencies with:
     yarn install
 
 ## Starting Up
-Start the app by running `yarn start` on your terminal.
+Start the app by running `yarn start` on your terminal. It may take a while when running the app for the first time.
 
     yarn start
 
