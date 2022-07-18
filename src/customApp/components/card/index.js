@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import { CardWrapper } from "./style";
 import IntlMessages from "../../../components/utility/intlMessages";
-import { Card } from "antd";
+import Card from "../../../components/uielements/card";
 
 export default class extends Component {
   render() {

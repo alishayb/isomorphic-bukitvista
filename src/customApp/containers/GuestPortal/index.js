@@ -14,6 +14,14 @@ import { injectIntl } from 'react-intl';
 
 const { bookingSearch, bookingArrival } = actions;
 
+/**
+ * Show a notification box that can be closed automatically after a few seconds 
+ * or by clicking the x button.
+ * 
+ * @param {*} type Notification's icon type
+ * @param {*} message Title for the notification
+ * @param {*} description Description of the notification
+ */
 const openNotificationWithIcon = (type, message, description) => {
   notifications[type]({
     message,
