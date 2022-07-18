@@ -3,7 +3,7 @@
 ## Description
 Website for guests of Bukit Vista to check their reservation and property status. Guest can also set their arrival time for each of their reservation if it haven't been set yet.
 
-Access Bukit Vista Partner via:
+Access Bukit Vista Partner via: [https://bukit-vista-partner.herokuapp.com](https://bukit-vista-partner.herokuapp.com)
 
 ## Prerequisites
 Ensure you have the following on your local computer:
