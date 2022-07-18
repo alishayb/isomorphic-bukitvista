@@ -13,7 +13,7 @@ Ensure you have the following on your local computer:
 ## Installation
 Clone the app
 
-    git clone https://github.com/alishayb/bukitvistapartner.git
+    git clone https://github.com/alishayb/isomorphic-bukitvista.git
 
 Go to the project directory and install all the necessary dependencies with:
 
